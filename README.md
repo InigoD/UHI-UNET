@@ -1,7 +1,9 @@
 # A Machine Learning Approach for the Efficient Estimation of Ground-Level Air Temperature in Urban Areas
 Repository containing the scripts and results of the paper "A Machine Learning Approach for the Efficient Estimation of Ground-Level Air Temperature in Urban Areas"
 
-<img src="./images/UNET_UHI.png" width="100%" />
+<img src="./images/UNET_UHI.png" width="50%" />
+<img src="./images/arrigo_patches_estimation.png" width="50%" />
+<img src="./images/arrigo_patches_locations.png" width="50%" />
 
 ### How to run:
 
