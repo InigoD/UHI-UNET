@@ -3,7 +3,7 @@ Repository containing the scripts and results of the paper "A Machine Learning A
 
 <img src="./images/UNET_UHI.png" width="50%" />
 <img src="./images/arrigo_patches_estimation.png" width="100%" />
-<img src="./images/arrigo_patches_locations.png" width="1'0%" />
+<img src="./images/arrigo_patches_locations.png" width="100%" />
 
 ### How to run:
 
