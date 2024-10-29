@@ -8,7 +8,7 @@ Repository containing the scripts and results of the paper "A Machine Learning A
 
 ### How to run:
 
-Scripts and results are given in the folders named as such. Other scripts (production of plots, computation of quality statistics, etc) can be provided on demand.
+Data, models, results and plots are given in the folders named as such. Other scripts (e.g. computation of quality statistics) can be provided on demand.
 
 ### Contributing
 
